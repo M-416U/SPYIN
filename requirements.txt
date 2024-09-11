@@ -1,0 +1,6 @@
+ctypes
+requests
+vidstream
+opencv-python
+pywin32
+colorama
