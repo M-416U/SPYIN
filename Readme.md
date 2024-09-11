@@ -32,7 +32,7 @@ The server listens for client connections and enables interaction via a terminal
 
     Copy code
 
-    `git clone https://github.com/username/remote-command-server.git cd remote-command-server`
+    `git clone https://github.com/M-416U/SPYIN.git cd SPYIN`
 
 2.  Install dependencies:
 
@@ -60,7 +60,7 @@ The server will start listening for connections on port 9999 for commands and po
 
     Copy code
 
-    `git clone https://github.com/username/remote-command-client.git cd remote-command-client`
+    `git clone https://github.com/M-416U/SPYIN.git cd SPYIN`
 
 2.  Install dependencies:
 
@@ -139,3 +139,4 @@ If you want to contribute to this project, feel free to open a pull request or s
 ---
 
 **Disclaimer:** This project is for educational purposes. Be responsible when using remote access tools. Ensure you have permission to control any remote machine.
+**Disclaimer:** This Readme file created by chatgpt
